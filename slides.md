@@ -55,6 +55,13 @@ T(n) = O(n \log n)
 $$
 
 ---
+---
+marp: true
+---
+
+# Hello, Marp! 🎉
+
+This is my first slide.
 
 # Custom Styling Example
 
@@ -79,3 +86,4 @@ Contact me:
 **23f1001029@ds.study.iitm.ac.in**
 
 ---
+
