@@ -1,89 +1,63 @@
 ---
 marp: true
-theme: custom
+theme: default
 paginate: true
-_paginate: false
 class: lead
 ---
 
-<!-- Custom theme definition -->
-<style>
-section {
-  font-family: "Segoe UI", sans-serif;
-}
-h1, h2 {
-  color: #2b7a78;
-}
-footer {
-  font-size: 14px;
-  color: #888;
-  text-align: right;
-}
-</style>
+# 📘 Product Documentation Presentation  
 
-# Product Documentation
-
-**Technical Writer Presentation**
-
-📧 23f1001029@ds.study.iitm.ac.in
+**Author:** Technical Writer  
+**Email:** <23f1001029@ds.study.iitm.ac.in>  
 
 ---
 
-# Features
+<!-- _class: lead -->
+# 🛠️ About Our Product  
 
-- Lightweight Markdown-based docs
-- Version-controlled
-- Convertible to HTML, PDF, PPTX
-
----
-
-<!-- Background image -->
-![bg](https://picsum.photos/1200/800)
-
-# With Background Image
-
-This slide uses a full background image.
+- Reliable software for data processing  
+- Easy to maintain in version control  
+- Exportable to multiple formats  
 
 ---
 
-# Algorithmic Complexity
+<!-- _class: invert -->
+# ✨ Custom Theme Example  
 
-We can represent equations using **KaTeX / MathJax**:
+This slide uses custom styling with directives.  
+You can invert colors, center text, or apply classes.  
+
+---
+
+<!-- _backgroundImage: url('https://picsum.photos/800/600') -->
+# 🌄 Background Image Example  
+
+This slide has a full background image.  
+
+---
+
+# 🔢 Mathematical Example  
+
+Algorithmic Complexity:  
 
 $$
 T(n) = O(n \log n)
 $$
 
 ---
----
-marp: true
----
 
-# Hello, Marp! 🎉
+# 📑 Features of This Presentation  
 
-This is my first slide.
-
-# Custom Styling Example
-
-<!-- Apply Marp directives -->
-<style scoped>
-section {
-  background: #fdf6e3;
-  color: #073642;
-  border: 3px solid #2aa198;
-  border-radius: 12px;
-  padding: 20px;
-}
-</style>
-
-This slide has **custom scoped styling**.
+- ✅ Includes **Marp directive** (`marp: true`)  
+- ✅ Custom styling (`class: lead`, `invert`)  
+- ✅ Page numbers (`paginate: true`)  
+- ✅ Your email address  
+- ✅ Background image  
+- ✅ Equation support  
 
 ---
 
-# Thank You 🙏
+# 🙌 Thank You!  
 
-Contact me:  
-**23f1001029@ds.study.iitm.ac.in**
-
----
-
+For more details, contact:  
+**<23f1001029@ds.study.iitm.ac.in>**
